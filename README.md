@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Harun</h1>
-<h3 align="center">Artificial Intellignce Engineering Student from Turkey</h3>
+<h3 align="center">A Artificial Intellignce Engineering Student from Turkey</h3>
 
 - 🔭 I’m currently working on **EventNest**
+
+- 🌱 I’m currently learning **Firebase, ReactNative, C++, Java**
+
+- 📫 How to reach me **harunulukaya@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
