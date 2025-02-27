@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harun</h1>
-<h3 align="center">Artificial Intellignce Engineering Student from Turkey</h3>
+<h3 align="center">Artificial Intelligence Engineering Student from Turkey</h3>
 
 - 🔭 I’m currently working on **EventNest**
 
